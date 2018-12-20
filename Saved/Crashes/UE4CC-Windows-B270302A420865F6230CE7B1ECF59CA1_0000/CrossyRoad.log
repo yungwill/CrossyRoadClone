@@ -1,0 +1,743 @@
+﻿Log file open, 12/14/18 09:29:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CrossyRoad
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299611
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.182s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.14-17.29.28:300][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-17.29.28:301][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.14-17.29.28:320][  0]LogHAL: Display: Platform has ~ 8 GB [8427773952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.14-17.29.28:320][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.14-17.29.28:321][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.14-17.29.28:321][  0]LogInit: Computer: SERAH
+[2018.12.14-17.29.28:321][  0]LogInit: User: will0
+[2018.12.14-17.29.28:321][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.14-17.29.28:321][  0]LogInit: High frequency timer resolution =1.945315 MHz
+[2018.12.14-17.29.28:322][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.12.14-17.29.28:322][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.14-17.29.28:322][  0]LogMemory: Process Physical Memory: 100.94 MB used, 100.94 MB peak
+[2018.12.14-17.29.28:322][  0]LogMemory: Process Virtual Memory: 89.49 MB used, 89.49 MB peak
+[2018.12.14-17.29.28:322][  0]LogMemory: Physical Memory: 4432.62 MB used,  3604.73 MB free, 8037.35 MB total
+[2018.12.14-17.29.28:322][  0]LogMemory: Virtual Memory: 4643.71 MB used,  3604.73 MB free, 134217728.00 MB total
+[2018.12.14-17.29.28:361][  0]LogInit: Using OS detected language (en-US).
+[2018.12.14-17.29.28:361][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.14-17.29.28:362][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.14-17.29.28:729][  0]LogStreaming: Display: Took  0.367s to InitEngineTextLocalization.
+[2018.12.14-17.29.28:729][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.14-17.29.28:768][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.14-17.29.28:768][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.14-17.29.29:022][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.14-17.29.29:022][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.14-17.29.29:039][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.12.14-17.29.29:039][  0]LogD3D11RHI:       128/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.14-17.29.29:041][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.14-17.29.29:041][  0]LogD3D11RHI:       0/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.14-17.29.29:041][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.14-17.29.29:046][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.14-17.29.29:046][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.14-17.29.29:046][  0]LogWindows: EnumDisplayDevices:
+[2018.12.14-17.29.29:047][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.12.14-17.29.29:047][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.12.14-17.29.29:047][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.12.14-17.29.29:048][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.12.14-17.29.29:048][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.12.14-17.29.29:048][  0]LogD3D11RHI:   Driver Version: 22.20.16.4771 (internal:22.20.16.4771, unified:22.20.16.4771)
+[2018.12.14-17.29.29:048][  0]LogD3D11RHI:      Driver Date: 8-13-2017
+[2018.12.14-17.29.29:048][  0]LogRHI: Texture pool is 1496 MB (70% of 2137 MB)
+[2018.12.14-17.29.29:059][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.14-17.29.29:067][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.12.14-17.29.29:068][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Intermediate/Shaders/WorkingDirectory/1260/).
+[2018.12.14-17.29.29:068][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/will0/AppData/Local/Temp/UnrealShaderWorkingDir/0AEA7615403BB53F2A982190BF3F2B87/'.
+[2018.12.14-17.29.29:368][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.14-17.29.29:382][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.14-17.29.29:395][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.14-17.29.29:409][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.14-17.29.29:423][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.14-17.29.29:435][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.14-17.29.29:448][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.14-17.29.29:460][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.14-17.29.29:467][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-17.29.29:540][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.14-17.29.29:619][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-17.29.29:619][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-17.29.29:662][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-17.29.29:662][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-17.29.29:683][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.14-17.29.29:699][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.14-17.29.29:711][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.14-17.29.29:727][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.14-17.29.29:739][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-17.29.29:739][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.14-17.29.29:801][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.14-17.29.29:801][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.14-17.29.29:801][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.14-17.29.30:548][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.14-17.29.30:602][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/will0/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.14-17.29.30:602][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/will0/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.14-17.29.30:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.14-17.29.30:602][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.14-17.29.30:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.14-17.29.30:602][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.14-17.29.30:615][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.14-17.29.30:628][  0]LogDerivedDataCache: Using Local data cache path C:/Users/will0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.14-17.29.30:628][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.14-17.29.30:628][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.14-17.29.30:648][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.14-17.29.30:650][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.14-17.29.30:651][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.14-17.29.30:724][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.12.14-17.29.31:050][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-17.29.31:190][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.14-17.29.31:194][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.14-17.29.31:194][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.14-17.29.31:194][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.14-17.29.31:194][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.14-17.29.31:210][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1922102779)
+[2018.12.14-17.29.31:863][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.119498 seconds
+[2018.12.14-17.29.31:870][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.14-17.29.31:870][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.14-17.29.31:870][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.14-17.29.32:766][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.14-17.29.32:780][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.14-17.29.32:974][  0]SourceControl: Source control is disabled
+[2018.12.14-17.29.32:974][  0]SourceControl: Source control is disabled
+[2018.12.14-17.29.32:976][  0]SourceControl: Source control is disabled
+[2018.12.14-17.29.32:977][  0]SourceControl: Source control is disabled
+[2018.12.14-17.29.33:197][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.14-17.29.33:262][  0]LogOcInput: OculusInput pre-init called
+[2018.12.14-17.29.33:335][  0]LogEngine: Initializing Engine...
+[2018.12.14-17.29.33:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.14-17.29.33:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-17.29.33:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-17.29.33:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-17.29.33:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-17.29.33:587][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.14-17.29.33:607][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.14-17.29.33:615][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.29.33:643][  0]LogInit: FAudioDevice initialized.
+[2018.12.14-17.29.33:644][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.14-17.29.33:714][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/will0/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.14-17.29.33:742][  0]LogInit: Texture streaming: Enabled
+[2018.12.14-17.29.33:762][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.14-17.29.33:783][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.14-17.29.33:832][  0]LogInit: Transaction tracking system initialized
+[2018.12.14-17.29.33:862][  0]BlueprintLog: New page: Editor Load
+[2018.12.14-17.29.33:957][  0]LocalizationService: Localization service is disabled
+[2018.12.14-17.29.34:287][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.14-17.29.34:287][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.14-17.29.34:287][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.14-17.29.34:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-17.29.34:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-17.29.34:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-17.29.34:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-17.29.34:446][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/' took 0.02s
+[2018.12.14-17.29.34:446][  0]SourceControl: Source control is disabled
+[2018.12.14-17.29.34:446][  0]Cmd: MAP LOAD FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/StarterContent/Maps/CrossyRoadMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.14-17.29.34:449][  0]LightingResults: New page: Lighting Build
+[2018.12.14-17.29.34:452][  0]MapCheck: New page: Map Check
+[2018.12.14-17.29.34:452][  0]LightingResults: New page: Lighting Build
+[2018.12.14-17.29.34:986][  0]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.29.34:992][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.14-17.29.35:027][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.14-17.29.35:158][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 130.798ms to complete.
+[2018.12.14-17.29.35:158][  0]LogFileHelpers: Loading map 'CrossyRoadMap' took 0.713
+[2018.12.14-17.29.35:259][  0]LogCollectionManager: Loaded 0 collections in 0.002220 seconds
+[2018.12.14-17.29.35:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/Collections/' took 0.01s
+[2018.12.14-17.29.35:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Developers/will0/Collections/' took 0.01s
+[2018.12.14-17.29.35:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Collections/' took 0.01s
+[2018.12.14-17.29.35:314][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.14-17.29.35:327][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2572 classes and 603 folders.
+[2018.12.14-17.29.35:341][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.14-17.29.35:496][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.14-17.29.35:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.29.35:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.29.35:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.29.35:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.29.35:567][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.14-17.29.35:725][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.14-17.29.35:729][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.14-17.29.35:733][  0]LogSlate: Took 0.001502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.14-17.29.35:863][  0]LogRenderer: Reallocating scene render targets to support 876x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-17.29.37:332][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.14-17.29.37:332][  0]LogLoad: (Engine Initialization) Total time: 10.95 seconds
+[2018.12.14-17.29.37:332][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.14-17.29.37:378][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.12.14-17.29.37:405][  0]LogSlate: Took 0.001830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-17.29.38:207][  2]LogAssetRegistry: Asset discovery search completed in 7.5056 seconds
+[2018.12.14-17.29.38:209][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.14-17.29.38:209][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.12.14-17.29.39:329][  7]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.29.58:606][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.29.58:820][346]LogSlate: Took 0.000796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-17.29.58:841][346]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RailwayBlock.RailwayBlock
+[2018.12.14-17.29.59:672][346]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.12.14-17.30.00:647][346]LogSlate: Took 0.007378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.14-17.30.00:779][347]LogSlate: Took 0.003651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.14-17.30.03:730][440]LogSlate: Window 'RailwayBlock' being destroyed
+[2018.12.14-17.30.05:601][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Train.Train
+[2018.12.14-17.31.14:567][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_1.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.14:572][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_1.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.22:641][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_3.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.22:646][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_3.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.23:202][865]LogSlate: Took 0.003577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.14-17.31.24:680][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_5.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.24:684][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_5.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.26:374][ 51]BlueprintLog: New page: Compile Train
+[2018.12.14-17.31.26:587][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_7.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.26:592][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_7.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.26:599][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_9.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.26:603][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_9.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.31:150][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_11.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.31:158][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_11.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.31:165][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_13.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.31.31:169][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_13.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.32.55:800][347]BlueprintLog: New page: Compile Train
+[2018.12.14-17.32.55:975][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_15.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.32.55:979][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_15.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.32.55:986][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_17.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.32.55:990][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_17.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.32.58:777][509]LogRenderer: Reallocating scene render targets to support 912x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-17.33.06:524][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.33.36:705][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.33.52:444][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.34.10:849][860]BlueprintLog: New page: Compile RailwayBlock
+[2018.12.14-17.34.16:712][135]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.34.16:757][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.34.16:758][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.34.16:780][135]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:34:16 AM)
+[2018.12.14-17.34.16:781][135]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.34.16:789][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007841s)
+[2018.12.14-17.34.16:791][135]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.34.16:791][135]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2018.12.14-17.34.16:791][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.010312s)
+[2018.12.14-17.34.16:850][135]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.34.16:877][135]LogInit: FAudioDevice initialized.
+[2018.12.14-17.34.16:936][135]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.34.16:951][135]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.34.16
+[2018.12.14-17.34.16:953][135]LogWorld: Bringing up level for play took: 0.003895
+[2018.12.14-17.34.17:014][135]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.12.14-17.34.17:035][135]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.34.17:052][135]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap 0.883
+[2018.12.14-17.34.17:052][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.34.23:222][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.34.23:230][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.34.23:305][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.34.23:306][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.34.23:372][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.34.23:437][335]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.14-17.34.24:389][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.34.32:554][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_29.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.32:557][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_29.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.32:563][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_31.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.32:567][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_31.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.32:965][864]BlueprintLog: New page: Compile Train
+[2018.12.14-17.34.33:141][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_33.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.33:145][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_33.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.33:154][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_35.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.34.33:157][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_35.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.41.27:900][700]BlueprintLog: New page: Compile RailwayBlock
+[2018.12.14-17.41.29:817][768]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.41.29:858][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.41.29:858][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.41.29:859][768]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:41:29 AM)
+[2018.12.14-17.41.29:859][768]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.41.29:863][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004396s)
+[2018.12.14-17.41.29:864][768]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.41.29:865][768]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2018.12.14-17.41.29:865][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.005949s)
+[2018.12.14-17.41.29:918][768]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.41.29:936][768]LogInit: FAudioDevice initialized.
+[2018.12.14-17.41.29:981][768]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.41.29:984][768]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.41.29
+[2018.12.14-17.41.29:984][768]LogWorld: Bringing up level for play took: 0.001391
+[2018.12.14-17.41.30:007][768]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.30:010][768]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.30:014][768]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.30:017][768]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.30:030][768]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap -0.139
+[2018.12.14-17.41.30:030][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.41.30:827][795]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.31:305][811]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.32:331][847]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.32:335][847]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.33:790][899]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_12.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.33:794][899]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_13.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.34:015][907]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_10.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_14.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.34:021][907]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_11.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_15.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.34:354][919]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_12.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_16.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.34:359][919]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_13.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_17.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.34:815][935]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_14.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_18.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.35:618][963]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_15.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_19.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.36:204][983]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_16.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_20.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.36:208][983]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_17.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_21.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.36:782][  3]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_18.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_23.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.37:943][ 43]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_19.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_25.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.38:291][ 55]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_20.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_26.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.38:525][ 63]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_21.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_27.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.38:642][ 67]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_22.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_28.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.40:533][131]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_23.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_33.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.41:249][155]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_24.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_36.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.41:492][163]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_25.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_38.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.41:843][175]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_26.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_40.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.42:321][191]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_27.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_42.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.42:444][195]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_28.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_43.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.43:046][215]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_29.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_44.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.43:286][223]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_30.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_46.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.44:013][247]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_31.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_49.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.44:261][255]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_32.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_50.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.44:508][263]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_33.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_52.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.44:627][267]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_34.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_53.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.45:364][291]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_35.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_54.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.47:679][367]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_36.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_58.Rock' which is static to it. Aborting.
+[2018.12.14-17.41.48:657][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.41.48:657][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.41.48:735][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.41.48:735][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.41.48:807][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.41.48:884][399]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.14-17.41.49:933][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.42.01:632][119]BlueprintLog: New page: Compile RailwayBlock
+[2018.12.14-17.42.02:880][154]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.42.02:920][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.42.02:920][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.42.02:920][154]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:42:02 AM)
+[2018.12.14-17.42.02:921][154]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.42.02:925][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003985s)
+[2018.12.14-17.42.02:926][154]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.42.02:926][154]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2018.12.14-17.42.02:926][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.005621s)
+[2018.12.14-17.42.02:982][154]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.42.02:998][154]LogInit: FAudioDevice initialized.
+[2018.12.14-17.42.03:034][154]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.42.03:037][154]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.42.03
+[2018.12.14-17.42.03:037][154]LogWorld: Bringing up level for play took: 0.001490
+[2018.12.14-17.42.03:064][154]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.42.03:081][154]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.42.03:086][154]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.42.03:087][154]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap 0.918
+[2018.12.14-17.42.03:087][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.42.05:440][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.42.05:440][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.42.05:492][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.42.05:493][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.42.05:551][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.42.05:604][236]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.14-17.42.06:756][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.42.16:926][871]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.17:348][892]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.17:589][902]LogEditorTransaction: Undo Create Pin Link
+[2018.12.14-17.42.17:818][916]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.18:035][926]LogEditorTransaction: Undo Move Nodes
+[2018.12.14-17.42.18:228][934]LogEditorTransaction: Undo Create Pin Link
+[2018.12.14-17.42.18:427][943]LogEditorTransaction: Undo Paste clipboard contents
+[2018.12.14-17.42.18:641][953]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.18:854][962]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.19:066][972]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.19:255][980]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.19:451][989]LogEditorTransaction: Undo Change Number Pin Value
+[2018.12.14-17.42.19:615][996]LogEditorTransaction: Undo Create Pin Link
+[2018.12.14-17.42.19:780][  3]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.19:935][  9]LogEditorTransaction: Undo Add Node
+[2018.12.14-17.42.20:087][ 15]LogEditorTransaction: Undo Delete current selection
+[2018.12.14-17.42.20:349][ 28]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.20:564][ 38]LogEditorTransaction: Undo Add Node
+[2018.12.14-17.42.20:748][ 46]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.20:959][ 56]LogEditorTransaction: Undo Create Pin Link
+[2018.12.14-17.42.21:174][ 66]LogEditorTransaction: Undo Create Pin Link
+[2018.12.14-17.42.21:392][ 76]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.21:595][ 85]LogEditorTransaction: Undo Add Node
+[2018.12.14-17.42.21:807][ 95]LogEditorTransaction: Undo Delete current selection
+[2018.12.14-17.42.22:081][108]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.22:621][138]LogEditorTransaction: Undo Add Node
+[2018.12.14-17.42.22:967][156]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.23:350][176]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.23:737][197]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.24:102][216]LogEditorTransaction: Undo Move Node
+[2018.12.14-17.42.24:466][235]LogEditorTransaction: Undo Change Class Pin Value
+[2018.12.14-17.42.24:852][255]LogEditorTransaction: Undo Add Node
+[2018.12.14-17.42.46:673][533]LogEditorTransaction: Undo Delete current selection
+[2018.12.14-17.43.54:750][470]BlueprintLog: New page: Compile RailwayBlock
+[2018.12.14-17.43.56:194][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.43.56:239][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.43.56:240][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.43.56:241][510]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:43:56 AM)
+[2018.12.14-17.43.56:241][510]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.43.56:245][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005180s)
+[2018.12.14-17.43.56:246][510]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.43.56:249][510]LogPlayLevel: PIE: World Init took: (0.002496s)
+[2018.12.14-17.43.56:249][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.007966s)
+[2018.12.14-17.43.56:297][510]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.43.56:314][510]LogInit: FAudioDevice initialized.
+[2018.12.14-17.43.56:349][510]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.43.56:352][510]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.43.56
+[2018.12.14-17.43.56:352][510]LogWorld: Bringing up level for play took: 0.001309
+[2018.12.14-17.43.56:374][510]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.43.56:384][510]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.43.56:385][510]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap 0.217
+[2018.12.14-17.43.56:385][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.44.00:757][665]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.01:398][688]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.01:512][692]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.01:517][692]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.02:569][728]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.03:276][752]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.03:625][764]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_9.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.05:574][832]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_12.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.05:579][832]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_10.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_13.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.05:911][844]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_11.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_14.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.06:721][872]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_12.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_15.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.07:075][884]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_13.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_16.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.07:313][892]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_14.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_17.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.07:319][892]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_15.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_18.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.08:260][924]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_16.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_21.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.09:093][952]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_17.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_23.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.09:333][960]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_18.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_24.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.09:452][964]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_19.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_25.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.09:687][972]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_20.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_26.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.10:043][984]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_21.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_27.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.10:519][  0]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_22.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_28.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.10:635][  4]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_23.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_29.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.11:117][ 20]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_24.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_31.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.11:825][ 44]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_25.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_32.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.12:066][ 52]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_26.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_33.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.12:432][ 64]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_27.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_35.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.12:909][ 80]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_28.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_36.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.13:276][ 92]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_29.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_38.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.13:279][ 92]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_30.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_39.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.13:882][112]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_31.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_42.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.14:553][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.44.14:554][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.44.14:629][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.44.14:630][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.44.14:699][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.44.14:755][135]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.14-17.44.15:853][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.44.43:021][653]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/GrassBlock.GrassBlock
+[2018.12.14-17.44.43:433][653]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.44.48:849][969]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.09:329][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.45.09:376][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.09:376][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.45.09:376][ 70]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:45:09 AM)
+[2018.12.14-17.45.09:376][ 70]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.45.09:383][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006502s)
+[2018.12.14-17.45.09:384][ 70]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.45.09:384][ 70]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2018.12.14-17.45.09:385][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.008136s)
+[2018.12.14-17.45.09:434][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.45.09:462][ 70]LogInit: FAudioDevice initialized.
+[2018.12.14-17.45.09:493][ 70]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.45.09:496][ 70]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.45.09
+[2018.12.14-17.45.09:496][ 70]LogWorld: Bringing up level for play took: 0.001132
+[2018.12.14-17.45.09:525][ 70]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.09:529][ 70]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.09:532][ 70]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.09:534][ 70]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.09:536][ 70]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap -0.633
+[2018.12.14-17.45.09:536][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.16:023][297]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.19:293][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.19:293][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.45.19:345][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.45.19:345][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.19:403][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.45.19:436][417]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.14-17.45.21:584][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.45.21:872][474]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Chicken.Chicken
+[2018.12.14-17.45.29:599][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.45.29:663][827]BlueprintLog: New page: Compile Chicken
+[2018.12.14-17.45.29:891][827]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.29:894][827]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.29:913][827]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.29:916][827]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.32:653][922]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.45.32:707][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.32:709][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.45.32:709][922]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:45:32 AM)
+[2018.12.14-17.45.32:709][922]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.45.32:714][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005328s)
+[2018.12.14-17.45.32:717][922]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.45.32:717][922]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2018.12.14-17.45.32:717][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.006971s)
+[2018.12.14-17.45.32:767][922]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.45.32:786][922]LogInit: FAudioDevice initialized.
+[2018.12.14-17.45.32:821][922]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.45.32:825][922]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.45.32
+[2018.12.14-17.45.32:825][922]LogWorld: Bringing up level for play took: 0.001254
+[2018.12.14-17.45.32:842][922]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.32:845][922]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.32:866][922]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap 0.697
+[2018.12.14-17.45.32:867][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.49:879][565]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.49:986][569]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.14-17.45.51:075][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.51:075][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.45.51:137][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.45.51:138][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.45.51:213][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.45.51:275][609]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.14-17.45.55:598][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.46.07:505][252]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.14-17.46.11:429][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.46.11:503][405]BlueprintLog: New page: Compile Chicken
+[2018.12.14-17.46.11:717][405]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.11:721][405]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.11:733][405]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.11:736][405]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_10.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.13:101][443]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.46.13:151][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.13:151][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.46.13:152][443]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:46:13 AM)
+[2018.12.14-17.46.13:152][443]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.46.13:158][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005659s)
+[2018.12.14-17.46.13:159][443]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.46.13:159][443]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2018.12.14-17.46.13:160][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.007634s)
+[2018.12.14-17.46.13:205][443]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.46.13:221][443]LogInit: FAudioDevice initialized.
+[2018.12.14-17.46.13:255][443]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.46.13:257][443]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.46.13
+[2018.12.14-17.46.13:257][443]LogWorld: Bringing up level for play took: 0.000840
+[2018.12.14-17.46.13:274][443]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.13:276][443]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.13:280][443]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.13:285][443]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.13:294][443]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.13:295][443]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap 1.127
+[2018.12.14-17.46.13:295][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.25:922][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.25:922][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.46.25:976][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.46.25:976][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.26:055][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.46.26:107][923]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.14-17.46.27:540][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.46.41:423][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_47.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.41:431][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_49.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.41:445][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_51.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.41:450][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_49.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.42:848][672]BlueprintLog: New page: Compile Train
+[2018.12.14-17.46.43:111][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_51.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.43:116][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_53.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.43:128][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_53.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.43:133][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_55.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.46.44:843][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.46.44:897][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.44:897][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-17.46.44:897][724]PIE: New page: PIE session: CrossyRoadMap (Dec 14, 2018, 1:46:44 AM)
+[2018.12.14-17.46.44:897][724]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap
+[2018.12.14-17.46.44:903][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005371s)
+[2018.12.14-17.46.44:903][724]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.14-17.46.44:904][724]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2018.12.14-17.46.44:904][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap to /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.006829s)
+[2018.12.14-17.46.44:958][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-17.46.44:983][724]LogInit: FAudioDevice initialized.
+[2018.12.14-17.46.45:017][724]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.14-17.46.45:021][724]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.14-09.46.45
+[2018.12.14-17.46.45:021][724]LogWorld: Bringing up level for play took: 0.001294
+[2018.12.14-17.46.45:039][724]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.45:049][724]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.45:052][724]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.45:056][724]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap 0.888
+[2018.12.14-17.46.45:057][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.48:435][851]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.48:854][867]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.49:615][895]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.50:591][931]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.51:031][947]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.51:368][959]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_9.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.53:078][ 19]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_12.Rock' which is static to it. Aborting.
+[2018.12.14-17.46.54:559][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.54:559][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.46.54:628][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-17.46.54:628][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.46.54:703][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-17.46.54:780][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.14-17.46.55:861][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-17.47.02:105][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_55.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.47.02:114][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_57.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.47.02:124][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_57.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.47.02:137][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_Train_C_CHILDACTOR_59.Scene) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.14-17.47.03:857][433]LogRenderer: Reallocating scene render targets to support 1140x712 Format 10 NumSamples 1 (Frame:860).
+[2018.12.14-17.47.05:600][489]Cmd: TRANSACTION UNDO
+[2018.12.14-17.47.05:601][489]LogEditorTransaction: Undo Edit Move Speed
+[2018.12.14-17.47.06:042][501]Cmd: TRANSACTION UNDO
+[2018.12.14-17.47.06:042][501]LogEditorTransaction: Undo Edit Move Speed
+[2018.12.14-17.47.06:322][512]Cmd: TRANSACTION UNDO
+[2018.12.14-17.47.06:322][512]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.14-17.47.06:589][521]Cmd: TRANSACTION UNDO
+[2018.12.14-17.47.06:589][521]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.14-17.47.10:244][644]BlueprintLog: New page: Compile Chicken
+[2018.12.14-17.47.10:525][644]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_10.Rock' which is static to it. Aborting.
+[2018.12.14-17.47.10:529][644]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_12.Rock' which is static to it. Aborting.
+[2018.12.14-17.47.10:546][644]PIE: Warning: AttachTo: '/Engine/Transient.World_6:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_6:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_12.Rock' which is static to it. Aborting.
+[2018.12.14-17.47.10:554][644]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_10:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_14.Rock' which is static to it. Aborting.
+[2018.12.14-17.47.11:451][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-17.47.11:501][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.14-17.47.11:501][669]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.14-17.47.11:508][669]LogPlayLevel: [PlayLevel] Compiling Train before play...
+[2018.12.14-17.47.11:518][669]LogWindows: Windows GetLastError: The operation completed successfully. (0)

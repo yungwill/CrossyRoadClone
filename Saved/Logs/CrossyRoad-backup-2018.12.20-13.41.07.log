@@ -1,0 +1,1177 @@
+﻿Log file open, 12/20/18 12:54:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CrossyRoad
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281453
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.142s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.20-20.54.37:965][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.20-20.54.37:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.20-20.54.37:979][  0]LogHAL: Display: Platform has ~ 8 GB [8427773952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.20-20.54.37:979][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.20-20.54.37:979][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.20-20.54.37:979][  0]LogInit: Computer: SERAH
+[2018.12.20-20.54.37:979][  0]LogInit: User: will0
+[2018.12.20-20.54.37:979][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.20-20.54.37:979][  0]LogInit: High frequency timer resolution =1.945316 MHz
+[2018.12.20-20.54.37:980][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.12.20-20.54.37:980][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.20-20.54.37:980][  0]LogMemory: Process Physical Memory: 101.04 MB used, 101.04 MB peak
+[2018.12.20-20.54.37:980][  0]LogMemory: Process Virtual Memory: 89.42 MB used, 89.42 MB peak
+[2018.12.20-20.54.37:980][  0]LogMemory: Physical Memory: 3994.30 MB used,  4043.05 MB free, 8037.35 MB total
+[2018.12.20-20.54.37:980][  0]LogMemory: Virtual Memory: 4643.71 MB used,  4043.05 MB free, 134217728.00 MB total
+[2018.12.20-20.54.37:999][  0]LogInit: Using OS detected language (en-US).
+[2018.12.20-20.54.37:999][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.20-20.54.38:000][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.20-20.54.38:326][  0]LogStreaming: Display: Took  0.327s to InitEngineTextLocalization.
+[2018.12.20-20.54.38:326][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.20-20.54.38:357][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.20-20.54.38:357][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.20-20.54.38:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.20-20.54.38:553][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.20-20.54.38:564][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.12.20-20.54.38:564][  0]LogD3D11RHI:       128/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.20-20.54.38:567][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.20-20.54.38:567][  0]LogD3D11RHI:       0/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.20-20.54.38:567][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.20-20.54.38:572][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.20-20.54.38:572][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.20-20.54.38:572][  0]LogWindows: EnumDisplayDevices:
+[2018.12.20-20.54.38:572][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.12.20-20.54.38:572][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.12.20-20.54.38:572][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.12.20-20.54.38:573][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.12.20-20.54.38:573][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.12.20-20.54.38:573][  0]LogD3D11RHI:   Driver Version: 22.20.16.4771 (internal:22.20.16.4771, unified:22.20.16.4771)
+[2018.12.20-20.54.38:573][  0]LogD3D11RHI:      Driver Date: 8-13-2017
+[2018.12.20-20.54.38:573][  0]LogRHI: Texture pool is 1496 MB (70% of 2137 MB)
+[2018.12.20-20.54.38:581][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.20-20.54.38:587][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.12.20-20.54.38:588][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Intermediate/Shaders/WorkingDirectory/8972/).
+[2018.12.20-20.54.38:588][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/will0/AppData/Local/Temp/UnrealShaderWorkingDir/A3C0DFB54B24D1EBA77A9D954D533433/'.
+[2018.12.20-20.54.38:842][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.20-20.54.38:854][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.20-20.54.38:866][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.20-20.54.38:878][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.20-20.54.38:890][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.20-20.54.38:902][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.20-20.54.38:914][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.20-20.54.38:926][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.20-20.54.38:932][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.38:999][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.20-20.54.39:001][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.20-20.54.39:058][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.20-20.54.39:058][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.20-20.54.39:079][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.20-20.54.39:079][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.20-20.54.39:091][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.20-20.54.39:103][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.20-20.54.39:118][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.20-20.54.39:130][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.20-20.54.39:138][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.20-20.54.39:138][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.20-20.54.39:195][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.20-20.54.39:195][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.20-20.54.39:195][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.20-20.54.39:846][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.20-20.54.39:892][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/will0/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.20-20.54.39:892][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/will0/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.20-20.54.39:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.20-20.54.39:892][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.20-20.54.39:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.20-20.54.39:892][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.20-20.54.39:903][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.20-20.54.39:916][  0]LogDerivedDataCache: Using Local data cache path C:/Users/will0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.20-20.54.39:916][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.20-20.54.39:916][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.20-20.54.39:932][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.20-20.54.39:933][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.20-20.54.39:933][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.20-20.54.40:003][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.12.20-20.54.40:275][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.20-20.54.40:392][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.20-20.54.40:396][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.20-20.54.40:396][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.20-20.54.40:396][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.20-20.54.40:396][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.20-20.54.40:422][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1922102779)
+[2018.12.20-20.54.40:896][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080898 seconds
+[2018.12.20-20.54.40:901][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.20-20.54.40:901][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.20-20.54.40:901][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.20-20.54.41:681][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.20-20.54.41:695][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.20-20.54.41:840][  0]SourceControl: Source control is disabled
+[2018.12.20-20.54.41:840][  0]SourceControl: Source control is disabled
+[2018.12.20-20.54.41:842][  0]SourceControl: Source control is disabled
+[2018.12.20-20.54.41:843][  0]SourceControl: Source control is disabled
+[2018.12.20-20.54.42:008][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.20-20.54.42:053][  0]LogOcInput: OculusInput pre-init called
+[2018.12.20-20.54.42:109][  0]LogEngine: Initializing Engine...
+[2018.12.20-20.54.42:110][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.20-20.54.42:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.20-20.54.42:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.20-20.54.42:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.20-20.54.42:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.20-20.54.42:295][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.20-20.54.42:306][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.20-20.54.42:347][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-20.54.42:371][  0]LogInit: FAudioDevice initialized.
+[2018.12.20-20.54.42:371][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.20-20.54.42:452][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/will0/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.20-20.54.42:460][  0]LogInit: Texture streaming: Enabled
+[2018.12.20-20.54.42:477][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.20-20.54.42:490][  0]LogInit: Transaction tracking system initialized
+[2018.12.20-20.54.42:510][  0]BlueprintLog: New page: Editor Load
+[2018.12.20-20.54.42:581][  0]LocalizationService: Localization service is disabled
+[2018.12.20-20.54.42:821][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.20-20.54.42:821][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.20-20.54.42:821][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.20-20.54.42:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.20-20.54.42:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.20-20.54.42:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.20-20.54.42:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.20-20.54.42:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/' took 0.01s
+[2018.12.20-20.54.42:930][  0]SourceControl: Source control is disabled
+[2018.12.20-20.54.42:930][  0]Cmd: MAP LOAD FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Level/CrossyRoadMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.20-20.54.42:933][  0]LightingResults: New page: Lighting Build
+[2018.12.20-20.54.42:935][  0]MapCheck: New page: Map Check
+[2018.12.20-20.54.42:935][  0]LightingResults: New page: Lighting Build
+[2018.12.20-20.54.43:689][  0]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-20.54.43:694][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.20-20.54.43:721][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.20-20.54.43:803][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.577ms to complete.
+[2018.12.20-20.54.43:803][  0]LogFileHelpers: Loading map 'CrossyRoadMap' took 0.872
+[2018.12.20-20.54.43:908][  0]LogCollectionManager: Loaded 0 collections in 0.001579 seconds
+[2018.12.20-20.54.43:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/Collections/' took 0.01s
+[2018.12.20-20.54.43:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Developers/will0/Collections/' took 0.01s
+[2018.12.20-20.54.43:974][  0]LogFileCache: Scanning file cache for directory 'C:/Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Collections/' took 0.01s
+[2018.12.20-20.54.43:974][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.20-20.54.43:989][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2572 classes and 603 folders.
+[2018.12.20-20.54.44:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.20-20.54.44:259][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.20-20.54.44:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-20.54.44:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-20.54.44:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-20.54.44:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-20.54.44:337][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.20-20.54.44:551][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.20-20.54.44:553][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.20-20.54.44:558][  0]LogSlate: Took 0.003656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.20-20.54.44:674][  0]LogRenderer: Reallocating scene render targets to support 876x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.20-20.54.45:915][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.20-20.54.45:915][  0]LogLoad: (Engine Initialization) Total time: 9.75 seconds
+[2018.12.20-20.54.45:915][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.20-20.54.45:934][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.20-20.54.45:955][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.12.20-20.54.45:982][  0]LogSlate: Took 0.004554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.20-20.54.46:009][  1]LogAssetRegistry: Asset discovery search completed in 6.0286 seconds
+[2018.12.20-20.54.46:011][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.20-20.54.46:011][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.12.20-20.54.47:029][ 23]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.20-20.54.47:035][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.20-20.54.47:042][ 23]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PlayerChar.PlayerChar
+[2018.12.20-20.54.47:593][ 23]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.20-20.54.48:379][ 23]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CrossyRoadMode.CrossyRoadMode
+[2018.12.20-20.54.48:685][ 23]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RailwayBlockL.RailwayBlockL
+[2018.12.20-20.54.48:991][ 23]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD.HUD
+[2018.12.20-20.54.49:459][ 23]LogSlate: Took 0.003150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.20-20.54.49:570][ 24]LogSlate: Took 0.003307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.20-20.54.58:181][286]LogSlate: Window 'PlayerChar' being destroyed
+[2018.12.20-21.05.04:976][649]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.12.20-21.16.34:287][562]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.20-21.16.37:851][653]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.20-21.16.42:372][818]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.20-21.17.04:017][267]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.20-21.17.08:328][397]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.20-21.18.28:040][125]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/will0/OneDrive/Documents/MagicaVoxel-0.99.2-alpha-win64/export/CrossyRoad.obj)
+[2018.12.20-21.18.28:064][125]LogFbx: Loading FBX Scene from ../../../../../../Users/will0/OneDrive/Documents/MagicaVoxel-0.99.2-alpha-win64/export/CrossyRoad.obj
+[2018.12.20-21.18.28:076][125]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.20-21.18.29:333][125]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.20-21.18.29:519][125]LogStaticMesh: Building static mesh CrossyRoad...
+[2018.12.20-21.18.29:530][125]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/CrossyRoad.CrossyRoad
+[2018.12.20-21.18.29:533][125]LogStaticMesh: Warning: CrossyRoad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.20-21.18.29:533][125]LogStaticMesh: Warning: CrossyRoad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.20-21.18.29:547][125]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.20-21.18.29:548][125]FBXImport: Warning: CrossyRoad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.20-21.18.29:548][125]FBXImport: Warning: CrossyRoad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.20-21.18.29:615][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/will0/OneDrive/Documents/MagicaVoxel-0.99.2-alpha-win64/export/CrossyRoad.png)
+[2018.12.20-21.18.29:628][125]LogTexture: Display: Building textures: CrossyRoad_0 (BGRA8, 256X1)
+[2018.12.20-21.18.32:891][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/CrossyRoadMap' took 0.059
+[2018.12.20-21.18.32:895][198]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Meshes/CrossyRoad] ([2] browsable assets)...
+[2018.12.20-21.18.32:931][198]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/CrossyRoad.CrossyRoad]
+[2018.12.20-21.18.32:933][198]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Meshes/CrossyRoad.CrossyRoad_0]
+[2018.12.20-21.18.32:933][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CrossyRoad]
+[2018.12.20-21.18.32:970][198]LogSavePackage: Moving '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/CrossyRoad_Auto1DBF50A9045A4DD9F1896C9A11E9E35EF.tmp' to '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/Autosaves/Game/Meshes/CrossyRoad_Auto1.uasset'
+[2018.12.20-21.18.32:972][198]LogFileHelpers: Auto-saving content packages took 0.081
+[2018.12.20-21.18.35:808][247]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-21.18.35:853][247]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-21.28.53:809][472]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.20-21.29.03:085][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.29.09:483][808]PIE: Warning: AttachTo: '/Engine/Transient.World_24:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Engine/Transient.World_24:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.29.21:017][143]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.20-21.29.41:514][351]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.20-21.29.49:049][463]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Logo.Logo
+[2018.12.20-21.29.49:935][464]LogRenderer: Reallocating scene render targets to support 912x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.20-21.31.05:975][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.31.06:028][612]BlueprintLog: New page: Compile Logo
+[2018.12.20-21.31.09:985][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Logo" FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/Logo.uasset" SILENT=true
+[2018.12.20-21.31.10:032][735]LogSavePackage: Moving '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/LogoCC0E916E4157B9DC1983A1B5B42FD4DA.tmp' to '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/Logo.uasset'
+[2018.12.20-21.31.27:650][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.32.23:505][414]LogSlate: Took 0.012471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.20-21.32.40:508][428]BlueprintLog: New page: Compile HUD
+[2018.12.20-21.32.40:950][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUD" FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/HUD.uasset" SILENT=true
+[2018.12.20-21.32.41:084][445]LogSavePackage: Moving '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/HUDF8BEA7F24E176A9A9C6428A6AE4053A3.tmp' to '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/HUD.uasset'
+[2018.12.20-21.33.00:363][172]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TrainL.TrainL
+[2018.12.20-21.34.37:980][357]LogSlate: Took 0.005399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.20-21.34.42:371][549]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.20-21.34.45:533][731]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.20-21.34.45:537][731]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.20-21.34.46:767][805]BlueprintLog: New page: Compile Logo
+[2018.12.20-21.35.09:733][167]BlueprintLog: New page: Compile Logo
+[2018.12.20-21.35.10:788][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Logo" FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/Logo.uasset" SILENT=true
+[2018.12.20-21.35.10:845][218]LogSavePackage: Moving '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/LogoC43E6FE74AC94902100809BE6F0D2309.tmp' to '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/Logo.uasset'
+[2018.12.20-21.36.12:546][188]BlueprintLog: New page: Compile Logo
+[2018.12.20-21.36.13:170][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Logo" FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/Logo.uasset" SILENT=true
+[2018.12.20-21.36.13:223][214]LogSavePackage: Moving '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/Logo928FCB7B48EE36BD235D50990856C7C7.tmp' to '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Blueprints/Logo.uasset'
+[2018.12.20-21.36.27:384][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.36.27:429][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.36.27:430][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.36.27:467][ 32]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:36:27 AM)
+[2018.12.20-21.36.27:468][ 32]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.36.27:482][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014153s)
+[2018.12.20-21.36.27:485][ 32]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.36.27:488][ 32]LogPlayLevel: PIE: World Init took: (0.005496s)
+[2018.12.20-21.36.27:489][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.020768s)
+[2018.12.20-21.36.27:533][ 32]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.36.27:552][ 32]LogInit: FAudioDevice initialized.
+[2018.12.20-21.36.27:608][ 32]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.36.27:612][ 32]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.36.27
+[2018.12.20-21.36.27:613][ 32]LogWorld: Bringing up level for play took: 0.002988
+[2018.12.20-21.36.27:659][ 32]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2018.12.20-21.36.27:684][ 32]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.36.27:686][ 32]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.36.27:689][ 32]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.36.27:695][ 32]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap 0.901
+[2018.12.20-21.36.27:695][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.36.30:399][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.36.30:400][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.36.30:442][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.36.30:443][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.36.30:483][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.36.30:513][130]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.20-21.37.05:674][529]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.20-21.37.06:676][552]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.20-21.37.10:921][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.37.13:018][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.37.13:083][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.37.13:132][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.13:133][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.37.13:133][734]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:37:13 AM)
+[2018.12.20-21.37.13:133][734]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.37.13:137][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004417s)
+[2018.12.20-21.37.13:138][734]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.37.13:139][734]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2018.12.20-21.37.13:139][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.005716s)
+[2018.12.20-21.37.13:202][734]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.37.13:228][734]LogInit: FAudioDevice initialized.
+[2018.12.20-21.37.13:263][734]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.37.13:266][734]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.37.13
+[2018.12.20-21.37.13:266][734]LogWorld: Bringing up level for play took: 0.001320
+[2018.12.20-21.37.13:293][734]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.37.13:298][734]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.37.13:303][734]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap 0.51
+[2018.12.20-21.37.13:303][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.16:668][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.16:669][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.37.16:752][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.37.16:752][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.16:824][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.37.16:880][846]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.20-21.37.17:899][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass2)
+[2018.12.20-21.37.18:881][901]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.20-21.37.21:517][976]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.37.22:421][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.37.22:530][  3]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.37.22:590][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.22:591][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.37.22:591][  3]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:37:22 AM)
+[2018.12.20-21.37.22:591][  3]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.37.22:596][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005324s)
+[2018.12.20-21.37.22:597][  3]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.37.22:598][  3]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.12.20-21.37.22:598][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.006627s)
+[2018.12.20-21.37.22:666][  3]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.37.22:694][  3]LogInit: FAudioDevice initialized.
+[2018.12.20-21.37.22:735][  3]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.37.22:738][  3]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.37.22
+[2018.12.20-21.37.22:738][  3]LogWorld: Bringing up level for play took: 0.001331
+[2018.12.20-21.37.22:760][  3]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.37.22:777][  3]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap -0.017
+[2018.12.20-21.37.22:777][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.35:216][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.35:216][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.37.35:292][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.37.35:292][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.37.35:358][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.37.35:435][427]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.20-21.37.37:949][500]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.20-21.37.49:000][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass_wall2)
+[2018.12.20-21.37.49:607][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass_wall)
+[2018.12.20-21.37.50:417][839]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass_wall3)
+[2018.12.20-21.37.58:916][ 61]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.00:324][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass6)
+[2018.12.20-21.38.02:857][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass4)
+[2018.12.20-21.38.03:521][182]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass)
+[2018.12.20-21.38.03:980][192]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass2)
+[2018.12.20-21.38.04:930][217]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass3)
+[2018.12.20-21.38.07:483][284]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.20-21.38.08:321][302]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.09:974][340]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grass5)
+[2018.12.20-21.38.11:288][370]Cmd: EDIT COPY
+[2018.12.20-21.38.11:831][383]Cmd: EDIT PASTE
+[2018.12.20-21.38.11:921][383]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.20:236][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.23:002][634]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2018.12.20-21.38.23:905][654]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2018.12.20-21.38.24:998][682]Cmd: DELETE
+[2018.12.20-21.38.24:999][682]Cmd: ACTOR DELETE
+[2018.12.20-21.38.25:023][682]LogEditorActor: Deleted Actor: PlayerStart
+[2018.12.20-21.38.25:093][682]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2018.12.20-21.38.26:375][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass5)
+[2018.12.20-21.38.29:221][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass3)
+[2018.12.20-21.38.31:997][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.38.33:446][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass5)
+[2018.12.20-21.38.34:520][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass3)
+[2018.12.20-21.38.36:327][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass11)
+[2018.12.20-21.38.37:301][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass9)
+[2018.12.20-21.38.38:119][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_wall3)
+[2018.12.20-21.38.45:866][212]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.20-21.38.49:344][296]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.55:097][447]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.55:763][464]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.58:866][545]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.38.59:797][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.38.59:869][570]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.38.59:937][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.38.59:937][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.38.59:937][570]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:38:59 AM)
+[2018.12.20-21.38.59:937][570]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.38.59:944][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006743s)
+[2018.12.20-21.38.59:945][570]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.38.59:946][570]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2018.12.20-21.38.59:946][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.008452s)
+[2018.12.20-21.39.00:013][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.39.00:043][570]LogInit: FAudioDevice initialized.
+[2018.12.20-21.39.00:083][570]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.39.00:087][570]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.39.00
+[2018.12.20-21.39.00:087][570]LogWorld: Bringing up level for play took: 0.001871
+[2018.12.20-21.39.00:101][570]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.20-21.39.00:124][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:147][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:172][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:202][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:214][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:223][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:258][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:288][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:313][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:382][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_9.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:394][570]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_10.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_10.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.00:450][570]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	CarL_C /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_CarL_C_CAT_17
+	Function /Game/Blueprints/CarL.CarL_C:UserConstructionScript:0000
+[2018.12.20-21.39.00:451][570]PIE: Error: Infinite loop detected. Blueprint:  CarL Function:  Construction Script Call Stack:  Show
+[2018.12.20-21.39.00:461][570]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap -0.332
+[2018.12.20-21.39.00:462][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.00:485][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.00:485][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.00:625][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.39.00:625][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.00:679][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.00:734][571]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.20-21.39.01:791][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2018.12.20-21.39.02:616][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.39.02:697][625]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.39.02:758][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.02:758][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.39.02:758][625]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:39:02 AM)
+[2018.12.20-21.39.02:758][625]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.39.02:764][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005867s)
+[2018.12.20-21.39.02:767][625]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.39.02:767][625]LogPlayLevel: PIE: World Init took: (0.003087s)
+[2018.12.20-21.39.02:768][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.009313s)
+[2018.12.20-21.39.02:836][625]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.39.02:867][625]LogInit: FAudioDevice initialized.
+[2018.12.20-21.39.02:907][625]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.39.02:910][625]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.39.02
+[2018.12.20-21.39.02:911][625]LogWorld: Bringing up level for play took: 0.001614
+[2018.12.20-21.39.02:924][625]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.20-21.39.02:928][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.02:941][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.02:957][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.02:968][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.02:985][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.03:035][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.03:161][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.03:177][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.03:182][625]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.03:220][625]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	TrainL_C /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Train_C_CAT_12
+	Function /Game/Blueprints/TrainL.TrainL_C:UserConstructionScript:0000
+[2018.12.20-21.39.03:220][625]PIE: Error: Infinite loop detected. Blueprint:  TrainL Function:  Construction Script Call Stack:  Show
+[2018.12.20-21.39.03:244][625]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap 0.45
+[2018.12.20-21.39.03:244][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.03:266][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.03:267][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.03:396][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.39.03:396][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.03:456][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.03:511][626]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.20-21.39.04:850][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2018.12.20-21.39.06:454][706]Cmd: SELECT NONE
+[2018.12.20-21.39.07:802][746]Cmd: SELECT NONE
+[2018.12.20-21.39.08:588][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2018.12.20-21.39.09:125][780]Cmd: SELECT NONE
+[2018.12.20-21.39.09:810][798]Cmd: SELECT NONE
+[2018.12.20-21.39.10:157][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.39.10:223][811]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.39.10:286][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.10:287][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.39.10:287][811]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:39:10 AM)
+[2018.12.20-21.39.10:287][811]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.39.10:293][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006084s)
+[2018.12.20-21.39.10:294][811]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.39.10:295][811]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2018.12.20-21.39.10:295][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.007664s)
+[2018.12.20-21.39.10:367][811]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.39.10:397][811]LogInit: FAudioDevice initialized.
+[2018.12.20-21.39.10:437][811]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.39.10:440][811]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.39.10
+[2018.12.20-21.39.10:440][811]LogWorld: Bringing up level for play took: 0.001672
+[2018.12.20-21.39.10:454][811]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.20-21.39.10:462][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:493][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:520][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:527][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:548][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:592][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:600][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:740][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:764][811]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.10:765][811]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	RoadBlockR_C /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.RoadBlockR_C_0
+	Function /Game/Blueprints/GrassBlock.GrassBlock_C:ExecuteUbergraph_GrassBlock:0000
+[2018.12.20-21.39.10:765][811]PIE: Error: Infinite loop detected. Blueprint:  GrassBlock Function:  DestroyActor Call Stack:  Show
+[2018.12.20-21.39.10:783][811]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap -0.01
+[2018.12.20-21.39.10:783][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.10:807][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.10:808][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.10:932][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.39.10:933][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.10:985][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.11:020][812]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.20-21.39.13:409][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.13:409][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.39.13:409][878]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:39:13 AM)
+[2018.12.20-21.39.13:409][878]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.39.13:415][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005580s)
+[2018.12.20-21.39.13:416][878]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.39.13:416][878]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2018.12.20-21.39.13:416][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.006910s)
+[2018.12.20-21.39.13:482][878]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.39.13:511][878]LogInit: FAudioDevice initialized.
+[2018.12.20-21.39.13:548][878]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.39.13:551][878]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.39.13
+[2018.12.20-21.39.13:552][878]LogWorld: Bringing up level for play took: 0.001741
+[2018.12.20-21.39.13:565][878]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.20-21.39.13:580][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:597][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:600][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:608][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:647][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:653][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:673][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:680][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:702][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:716][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_9.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:827][878]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_10.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_10.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.13:877][878]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	TrainL_C /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Train_C_CAT_7
+	Function /Game/Blueprints/TrainL.TrainL_C:UserConstructionScript:0000
+[2018.12.20-21.39.13:878][878]PIE: Error: Infinite loop detected. Blueprint:  TrainL Function:  Construction Script Call Stack:  Show
+[2018.12.20-21.39.13:888][878]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap 1.095
+[2018.12.20-21.39.13:888][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.13:912][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.13:912][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.14:017][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.39.14:017][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.14:072][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.14:107][879]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.39.14:129][879]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.20-21.39.14:146][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.14:146][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.39.14:146][879]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:39:14 AM)
+[2018.12.20-21.39.14:146][879]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.39.14:150][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003822s)
+[2018.12.20-21.39.14:151][879]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.39.14:151][879]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.12.20-21.39.14:151][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.004808s)
+[2018.12.20-21.39.14:202][879]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.39.14:222][879]LogInit: FAudioDevice initialized.
+[2018.12.20-21.39.14:258][879]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.39.14:261][879]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.39.14
+[2018.12.20-21.39.14:261][879]LogWorld: Bringing up level for play took: 0.001108
+[2018.12.20-21.39.14:273][879]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.20-21.39.14:280][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:285][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:293][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:321][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:336][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:339][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:341][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:370][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:453][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:463][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_9.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:467][879]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_10.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_10.Rock' which is static to it. Aborting.
+[2018.12.20-21.39.14:493][879]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	CarL_C /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_CarL_C_CAT_8
+	Function /Game/Blueprints/CarL.CarL_C:UserConstructionScript:0000
+[2018.12.20-21.39.14:493][879]PIE: Error: Infinite loop detected. Blueprint:  CarL Function:  Construction Script Call Stack:  Show
+[2018.12.20-21.39.14:514][879]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap -0.28
+[2018.12.20-21.39.14:514][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.14:534][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.14:535][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.14:755][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.39.14:755][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.39.14:806][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.39.14:851][880]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.20-21.39.20:681][ 33]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CarL.CarL
+[2018.12.20-21.39.23:444][144]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-21.39.23:451][144]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-21.39.32:120][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2018.12.20-21.39.39:333][813]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.39:333][813]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.40:136][834]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.40:136][834]LogEditorTransaction: Undo Select None
+[2018.12.20-21.39.40:605][846]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2018.12.20-21.39.41:121][856]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.41:121][856]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.41:464][864]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.41:465][864]LogEditorTransaction: Undo Select None
+[2018.12.20-21.39.41:977][875]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.41:977][875]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.42:688][893]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.42:688][893]LogEditorTransaction: Undo Select None
+[2018.12.20-21.39.43:144][905]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.43:144][905]LogEditorTransaction: Undo Select None
+[2018.12.20-21.39.43:720][918]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.43:720][918]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.44:237][930]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.44:237][930]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.44:541][938]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.44:541][938]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.44:737][942]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.44:737][942]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.44:941][948]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.44:941][948]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.45:135][953]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.45:135][953]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.45:284][957]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.45:284][957]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.45:506][959]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.45:506][959]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.45:670][962]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.45:670][962]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.45:879][967]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.45:879][967]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.46:087][972]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.46:087][972]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.46:265][976]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.46:265][976]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.46:406][979]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.46:406][979]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.46:588][983]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.46:588][983]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.46:772][985]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.46:772][985]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.46:956][991]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.46:956][991]LogEditorTransaction: Undo Delete Actors
+[2018.12.20-21.39.47:134][993]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.47:134][993]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.47:297][997]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.47:297][997]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.47:477][  1]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.47:477][  1]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.47:537][  1]LogActorComponent: ~FComponentReregisterContext: (/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.grass9.StaticMeshComponent0) Component already registered.
+[2018.12.20-21.39.47:679][  3]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.47:679][  3]LogEditorTransaction: Undo Paste
+[2018.12.20-21.39.47:823][  6]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.47:823][  6]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.48:084][ 12]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.48:084][ 12]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.48:136][ 12]LogActorComponent: ~FComponentReregisterContext: (/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.grass_2.StaticMeshComponent0) Component already registered.
+[2018.12.20-21.39.48:429][ 19]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.48:430][ 19]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.48:640][ 23]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.48:640][ 23]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.49:042][ 34]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.49:042][ 34]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.49:392][ 43]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.49:392][ 43]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.49:952][ 58]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.49:952][ 58]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.50:366][ 69]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.50:366][ 69]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.50:750][ 79]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.50:751][ 79]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.51:081][ 88]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.51:081][ 88]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.20-21.39.51:418][ 97]Cmd: TRANSACTION UNDO
+[2018.12.20-21.39.51:418][ 97]LogEditorTransaction: Undo Move Actors
+[2018.12.20-21.39.54:528][173]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.20-21.39.58:071][261]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.40.00:134][315]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.40.04:258][419]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.20-21.40.04:962][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.40.05:032][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.20-21.40.05:111][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.40.05:111][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.20-21.40.05:112][436]PIE: New page: PIE session: CrossyRoadMap (Dec 20, 2018, 5:40:05 AM)
+[2018.12.20-21.40.05:112][436]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_CrossyRoadMap
+[2018.12.20-21.40.05:118][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005166s)
+[2018.12.20-21.40.05:119][436]LogAIModule: Creating AISystem for world CrossyRoadMap
+[2018.12.20-21.40.05:119][436]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2018.12.20-21.40.05:119][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/CrossyRoadMap.CrossyRoadMap to /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap (0.006976s)
+[2018.12.20-21.40.05:199][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.20-21.40.05:232][436]LogInit: FAudioDevice initialized.
+[2018.12.20-21.40.05:273][436]LogLoad: Game class is 'CrossyRoadMode_C'
+[2018.12.20-21.40.05:277][436]LogWorld: Bringing World /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap up for play (max tick rate 60) at 2018.12.20-13.40.05
+[2018.12.20-21.40.05:277][436]LogWorld: Bringing up level for play took: 0.001484
+[2018.12.20-21.40.05:290][436]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.20-21.40.05:297][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_0.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_0.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:334][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_1.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_1.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:348][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_2.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_2.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:356][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_3.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_3.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:361][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_4.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_4.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:374][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_5.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_5.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:391][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_6.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_6.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:441][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_7.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_7.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:455][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_8.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_8.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:467][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_9.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_9.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:493][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_10.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_10.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:504][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_11.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_11.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:536][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_12.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_12.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:553][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_13.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_13.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:579][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_14.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_14.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:606][436]PIE: Warning: AttachTo: '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.GrassBlock_C_15.NODE_AddChildActorComponent-0' is not static  (in blueprint "GrassBlock"), cannot attach '/Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_Rock_C_CAT_15.Rock' which is static to it. Aborting.
+[2018.12.20-21.40.05:618][436]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	LogL_C /Game/Level/UEDPIE_0_CrossyRoadMap.CrossyRoadMap:PersistentLevel.NODE_AddChildActorComponent-0_LogL_C_CAT_18
+	Function /Game/Blueprints/LogL.LogL_C:UserConstructionScript:0000
+[2018.12.20-21.40.05:618][436]PIE: Error: Infinite loop detected. Blueprint:  LogL Function:  Construction Script Call Stack:  Show
+[2018.12.20-21.40.05:635][436]PIE: Play in editor start time for /Game/Level/UEDPIE_0_CrossyRoadMap 0.842
+[2018.12.20-21.40.05:636][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.40.05:661][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.40.05:661][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.40.05:823][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.20-21.40.05:824][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel' has LevelScriptBlueprint '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap' with GeneratedClass '/Game/Level/CrossyRoadMap.CrossyRoadMap_C' with ClassGeneratedBy '/Game/Level/CrossyRoadMap.CrossyRoadMap:PersistentLevel.CrossyRoadMap'
+[2018.12.20-21.40.05:881][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.20-21.40.05:944][437]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.12.20-21.40.06:891][470]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.12.20-21.40.09:200][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.20-21.40.11:716][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.20-21.40.11:720][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/LogL.LogL
+[2018.12.20-21.40.13:705][663]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-21.40.13:713][663]LogSlate: Window 'Message Log' being destroyed
+[2018.12.20-21.40.40:011][482]LogSlate: Window 'Save Content' being destroyed
+[2018.12.20-21.40.40:033][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/CrossyRoad" FILE="../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Meshes/CrossyRoad.uasset" SILENT=true
+[2018.12.20-21.40.40:042][482]LogSavePackage: Moving '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Saved/CrossyRoad681229AC43E45A80D0324BA09E3B0642.tmp' to '../../../../../../Users/will0/OneDrive/Documents/Unreal Projects/CrossyRoad/Content/Meshes/CrossyRoad.uasset'
+[2018.12.20-21.40.40:222][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.20-21.40.40:299][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.20-21.40.40:352][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.20-21.40.40:401][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.20-21.40.40:453][482]LogSlate: Window 'CrossyRoad - Unreal Editor' being destroyed
+[2018.12.20-21.40.40:716][483]Cmd: QUIT_EDITOR
+[2018.12.20-21.40.40:910][483]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.20-21.40.40:930][483]LogExit: Preparing to exit.
+[2018.12.20-21.40.41:296][483]LogExit: Editor shut down
+[2018.12.20-21.40.41:297][483]LogExit: Transaction tracking system shut down
+[2018.12.20-21.40.42:083][483]LogExit: Object subsystem successfully closed.
+[2018.12.20-21.40.42:120][483]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.20-21.40.42:126][483]LogD3D11RHI: Shutdown
+[2018.12.20-21.40.42:126][483]LogD3D11RHI: CleanupD3DDevice
+[2018.12.20-21.40.42:155][483]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (618)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module MeshBuilder (616)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module SequencerWidgets (614)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.20-21.40.42:237][483]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.20-21.40.42:241][483]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.20-21.40.42:241][483]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.20-21.40.42:241][483]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.20-21.40.42:242][483]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.20-21.40.42:243][483]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.20-21.40.42:243][483]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.20-21.40.42:246][483]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.20-21.40.42:247][483]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.20-21.40.42:247][483]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.20-21.40.42:247][483]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.20-21.40.42:248][483]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.20-21.40.42:248][483]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.20-21.40.42:250][483]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.20-21.40.42:250][483]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.20-21.40.42:250][483]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.20-21.40.42:250][483]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.20-21.40.42:250][483]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.20-21.40.42:251][483]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.20-21.40.42:252][483]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.20-21.40.42:253][483]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.20-21.40.42:254][483]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.20-21.40.42:255][483]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.20-21.40.42:255][483]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.20-21.40.42:256][483]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.20-21.40.42:256][483]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.20-21.40.42:256][483]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.20-21.40.42:256][483]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.20-21.40.43:184][483]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.20-21.40.43:184][483]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.20-21.40.43:184][483]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.20-21.40.43:184][483]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.20-21.40.43:184][483]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.20-21.40.43:185][483]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.20-21.40.43:186][483]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.20-21.40.43:186][483]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.20-21.40.43:187][483]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.20-21.40.43:188][483]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.20-21.40.43:188][483]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.20-21.40.43:189][483]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.20-21.40.43:190][483]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.20-21.40.43:191][483]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.20-21.40.43:191][483]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.20-21.40.43:191][483]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.20-21.40.43:245][483]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.20-21.40.43:246][483]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.20-21.40.43:246][483]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.20-21.40.43:248][483]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.20-21.40.43:248][483]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.20-21.40.43:249][483]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.20-21.40.43:249][483]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.20-21.40.43:249][483]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.20-21.40.43:250][483]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.20-21.40.43:250][483]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.20-21.40.43:255][483]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.20-21.40.43:255][483]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.20-21.40.43:256][483]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.20-21.40.43:256][483]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.20-21.40.43:256][483]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.20-21.40.43:257][483]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.20-21.40.43:257][483]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.20-21.40.43:257][483]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.20-21.40.43:258][483]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.20-21.40.43:259][483]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.20-21.40.43:259][483]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.20-21.40.43:259][483]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.20-21.40.43:259][483]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.20-21.40.43:259][483]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.20-21.40.43:357][483]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.20-21.40.43:358][483]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.20-21.40.43:359][483]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.20-21.40.43:359][483]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.20-21.40.43:359][483]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.20-21.40.43:359][483]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.20-21.40.43:359][483]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.20-21.40.43:360][483]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.20-21.40.43:360][483]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.20-21.40.43:360][483]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.20-21.40.43:361][483]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.20-21.40.43:365][483]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.20-21.40.43:365][483]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.20-21.40.43:365][483]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.20-21.40.43:365][483]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.20-21.40.43:366][483]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.20-21.40.43:367][483]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.20-21.40.43:367][483]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.20-21.40.43:368][483]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.20-21.40.43:369][483]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.20-21.40.43:369][483]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.20-21.40.43:369][483]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.20-21.40.43:369][483]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.20-21.40.43:370][483]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.20-21.40.43:370][483]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.20-21.40.43:370][483]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.20-21.40.43:370][483]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.20-21.40.43:370][483]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.20-21.40.43:372][483]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.20-21.40.43:373][483]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.20-21.40.43:373][483]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.20-21.40.43:373][483]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.20-21.40.43:373][483]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.20-21.40.43:373][483]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.20-21.40.43:374][483]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.20-21.40.43:374][483]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.20-21.40.43:375][483]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.20-21.40.43:375][483]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.20-21.40.43:375][483]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.20-21.40.43:375][483]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.20-21.40.43:376][483]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.20-21.40.43:376][483]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.20-21.40.43:376][483]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.20-21.40.43:376][483]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.20-21.40.43:376][483]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.20-21.40.43:477][483]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.20-21.40.43:578][483]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.20-21.40.43:578][483]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.20-21.40.43:579][483]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.20-21.40.43:579][483]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.20-21.40.43:579][483]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.20-21.40.43:579][483]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.20-21.40.43:580][483]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.20-21.40.43:582][483]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.20-21.40.43:582][483]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.20-21.40.43:582][483]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.20-21.40.43:582][483]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.20-21.40.43:583][483]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.20-21.40.43:585][483]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.20-21.40.43:585][483]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.20-21.40.43:585][483]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.20-21.40.43:585][483]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.20-21.40.43:586][483]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.20-21.40.43:586][483]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.20-21.40.43:588][483]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.20-21.40.43:595][483]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.20-21.40.43:595][483]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.20-21.40.43:595][483]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.20-21.40.43:596][483]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.20-21.40.43:596][483]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.20-21.40.43:596][483]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.20-21.40.43:596][483]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.20-21.40.43:596][483]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.20-21.40.43:597][483]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.20-21.40.43:597][483]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.20-21.40.43:599][483]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.20-21.40.43:599][483]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.20-21.40.43:600][483]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.20-21.40.43:601][483]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.20-21.40.43:601][483]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.20-21.40.43:601][483]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.20-21.40.43:602][483]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.20-21.40.43:602][483]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.20-21.40.43:604][483]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.20-21.40.43:604][483]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.20-21.40.43:608][483]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.20-21.40.43:609][483]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.20-21.40.43:609][483]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.20-21.40.43:609][483]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.20-21.40.43:609][483]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.20-21.40.43:609][483]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.20-21.40.43:609][483]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.20-21.40.43:610][483]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.20-21.40.43:610][483]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.20-21.40.43:610][483]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.20-21.40.43:612][483]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.20-21.40.43:613][483]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.20-21.40.43:614][483]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.20-21.40.43:615][483]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.20-21.40.43:615][483]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.20-21.40.43:616][483]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.20-21.40.43:617][483]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.20-21.40.43:620][483]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.20-21.40.43:723][483]LogDerivedDataCache: Shutdown
+[2018.12.20-21.40.43:723][483]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.20-21.40.43:723][483]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.20-21.40.43:724][483]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.20-21.40.43:724][483]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.20-21.40.43:725][483]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.20-21.40.43:725][483]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.20-21.40.43:725][483]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.20-21.40.43:726][483]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.20-21.40.43:726][483]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.20-21.40.43:727][483]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.20-21.40.43:728][483]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.20-21.40.43:728][483]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.20-21.40.43:728][483]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.20-21.40.43:728][483]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.20-21.40.43:728][483]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.20-21.40.43:729][483]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.20-21.40.43:740][483]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.20-21.40.43:740][483]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.20-21.40.43:751][483]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.20-21.40.43:751][483]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.20-21.40.43:830][483]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.20-21.40.43:831][483]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.20-21.40.43:831][483]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.20-21.40.43:831][483]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.20-21.40.43:831][483]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.20-21.40.43:831][483]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.20-21.40.43:831][483]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.20-21.40.43:832][483]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.20-21.40.43:832][483]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.20-21.40.43:832][483]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.20-21.40.43:832][483]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.20-21.40.43:833][483]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.20-21.40.43:834][483]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.20-21.40.43:860][483]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.20-21.40.43:860][483]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.20-21.40.43:860][483]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B13D85166-49BE-0AB4-DB38-70B9E9FC2FA4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=e1dda8b341ea990ce2a2fdad3eedd150%7C16742a2dacef4d62ba284a14c3f003e4%7C9f212082-f615-4d91-b2ed-1574d783ac80&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.20-21.40.43:893][483]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.20-21.40.43:896][483]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.20-21.40.43:897][483]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.20-21.40.43:897][483]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.20-21.40.43:897][483]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.20-21.40.43:897][483]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.20-21.40.43:898][483]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.20-21.40.43:899][483]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.20-21.40.43:899][483]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.20-21.40.43:900][483]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.20-21.40.43:902][483]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.20-21.40.43:902][483]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.20-21.40.43:902][483]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.20-21.40.43:904][483]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.20-21.40.43:905][483]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.20-21.40.43:911][483]LogExit: Exiting.
+[2018.12.20-21.40.43:937][483]Log file closed, 12/20/18 13:40:43
