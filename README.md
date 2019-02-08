@@ -4,7 +4,7 @@ CSUF CPSC 386 Final Project: Remake Crossy Road using Unreal Engine
 As a final project the professor required the class to remake Crossy Road individually when we had at most 
 2 weeks of experience in using Unreal engine in the class.
 Did not get far in the project. 
-Weeks Given to Complete: 4 weeks 
+Weeks Given to Complete Project: 4 weeks 
 Was able to get a dynamically generated infinite runner working with cars, trucks, and trains.
 
 Bugs/Problems/Not Implemented:
